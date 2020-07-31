@@ -22,4 +22,4 @@ async def on_message(message):
     if message.content.startswith("!은행원ㅎㅇ"):
         await message.channel.send("이용해주셔서 감사합니다.")
 
-client.run("NzM3NTMwMTI2NDQ2NjI0ODg5.Xx-sdA.s54YifMqSq48yQgdYnlGY9XzOfI")
+client.run("NzM3NTMwMTI2NDQ2NjI0ODg5.Xx-sdA.uRzVobG7_U2pgIw1QaiVv1yjLAI")
